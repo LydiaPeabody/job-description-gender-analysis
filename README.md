@@ -26,6 +26,7 @@ Bonus industries:
 * Finance - some evidence says finance is now a mixed industry, with no gender holding over 60% of the roles. If this is so, it should provide an interesting counterpoint to data, as both areas require similar mathematical and technical skill development.
 
 ## Next Steps:
-Data cleaning and exploratory data analysis
-Development of specific research questions and directions
-Probably additional web scraping to allow analysis of JDs across variying locations
+I'm excited to have an initial look at the data. Figure out what's there, what's missing, and what needs some processing to pull out.
+* Data cleaning and exploratory data analysis
+* Development of specific research questions and directions
+* Probably additional web scraping to allow analysis of JDs across variying locations
