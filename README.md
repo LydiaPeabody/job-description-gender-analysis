@@ -25,8 +25,25 @@ Bonus industries:
 * 'Data' - as a data professional, I'm intrigued by the male dominance in a sector that has had lots of media attention.
 * Finance - some evidence says finance is now a mixed industry, with no gender holding over 60% of the roles. If this is so, it should provide an interesting counterpoint to data, as both areas require similar mathematical and technical skill development.
 
+Features generated through scraping for each job include:
+Job Title, Job Description Text, Company Name, Company Rating (stars), Salary, Industry (based on search terms), Location (based on search) 
+
+### Data Cleaning
+Initial data collection resulted in about 40,000 rows of data, with each row representing one job
+* Removed duplicate data - almost 50% of scraped roles are duplicates
+* Dropped rows with no job description text
+* Pulled numerical salary and pay period from salary text, created equivalent annual salary
+* Formatted text: removing common (uninformative) words and punctuation
+
+### EDA: Exploratory Data Analysis
+I have had an initial look at the data, and begun creating additional features using NLP techniques, such as "sentiment," as well as a basic target column of industry gender dominance (mixed, female, male), based on Australian government statistics. Some features like "sentiment" show potential. Initial LDA visualization shows a clear separation between clusters appearing to represent female-dominated and male-dominated industries. Inital exploration of "gender-coded words" from prior research on job descriptions shows little connection to industry dominance. This may be a real indicator, but I suspect I need to write a better search function to handle stemmed words.
+
 ## Next Steps:
-I'm excited to have an initial look at the data. Figure out what's there, what's missing, and what needs some processing to pull out.
-* Data cleaning and exploratory data analysis
-* Development of specific research questions and directions
-* Probably additional web scraping to allow analysis of JDs across variying locations
+Continue feature creation and text cleaning
+* Identify qualifications / requirements for jobs
+* Improve cleaning processes converting JD strings to individual words
+* Separate staff and "management/leadership level positions for separate analysis
+
+Modelling
+* Test both clustering and classification models relative to the industry gender domininace target
+* Perform significance testing on observed differences from EDA
