@@ -1,8 +1,8 @@
 # What can job descriptions tell us about our workforce?
 
-The workforce in Australia is highly gender segregated, with the majority of Australians working in an [industry dominated by one gender or another] (https://www.wgea.gov.au/data/fact-sheets/gender-segregation-in-australias-workforce). Why do we care? Because study after study has shown that organizations are more creative, productive, and successful with a diverse range of staff.
+The workforce in Australia is highly gender segregated, with the majority of Australians working in an [industry dominated by one gender or another](https://www.wgea.gov.au/data/fact-sheets/gender-segregation-in-australias-workforce). Why do we care? Because study after study has shown that organizations are more creative, productive, and successful with a diverse range of staff.
 
-A small number of [well documented practices](https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/5-must-dos-for-writing-inclusive-job-descriptions) are recommended to design job descriptions that will attract candidates from multiple genders. Use of these [strategies] (
+A small number of [well documented practices](https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/5-must-dos-for-writing-inclusive-job-descriptions) are recommended to design job descriptions that will attract candidates from multiple genders. Use of these [strategies](
 https://blog.criteriacorp.com/6-simple-steps-to-reduce-gender-bias-in-your-job-descriptions) results in not just more female applicants, but a larger overall applicant field.
 
 There are existing tools to assist organizations looking to improve in these areas. For example, the [gender decoder](http://gender-decoder.katmatfield.com/) is a free online tool that checks for use of gender-coded words. For larger-scale implementation, it's available as both an Anaconda package and a github repo, so there are few excuses not to try it out.
