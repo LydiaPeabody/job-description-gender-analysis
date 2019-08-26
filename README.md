@@ -1,13 +1,13 @@
 # What can job descriptions tell us about our workforce?
 
-The workforce in Australia is highly gender segregated, with the majority of Australians working in an industry dominated by one gender or another (see:https://www.wgea.gov.au/data/fact-sheets/gender-segregation-in-australias-workforce). Why do we care? Because study after study has shown that organizations are more creative, productive, and successful with a diverse range of staff.
+The workforce in Australia is highly gender segregated, with the majority of Australians working in an [industry dominated by one gender or another] (https://www.wgea.gov.au/data/fact-sheets/gender-segregation-in-australias-workforce). Why do we care? Because study after study has shown that organizations are more creative, productive, and successful with a diverse range of staff.
 
-A small number of well documented practices are recommended to design job descriptions that will attract candidates from multiple genders.
-https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/5-must-dos-for-writing-inclusive-job-descriptions
-https://blog.criteriacorp.com/6-simple-steps-to-reduce-gender-bias-in-your-job-descriptions
-There are existing tools to assist organizations looking to improve in these areas. For example, the gender decoder (http://gender-decoder.katmatfield.com/) is a free online tool that checks for use of gender-coded words. For larger-scale implementation, it's available as both an Anaconda package and a github repo, so there are few excuses not to try it out.
+A small number of [well documented practices](https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/5-must-dos-for-writing-inclusive-job-descriptions) are recommended to design job descriptions that will attract candidates from multiple genders. Use of these [strategies] (
+https://blog.criteriacorp.com/6-simple-steps-to-reduce-gender-bias-in-your-job-descriptions) results in not just more female applicants, but a larger overall applicant field.
 
-Don't think it matters? Have a look at the success of predicting genders of hires based solely on analysis of job descriptions at Expedia: https://textio.ai/gendered-language-in-your-job-post-predicts-the-gender-of-the-person-youll-hire-cd150452407d. How you advertise a role is a strong predictor of who you will hire - in many cases companies and recruiters are including more communication to potential applicants than they realize.
+There are existing tools to assist organizations looking to improve in these areas. For example, the [gender decoder](http://gender-decoder.katmatfield.com/) is a free online tool that checks for use of gender-coded words. For larger-scale implementation, it's available as both an Anaconda package and a github repo, so there are few excuses not to try it out.
+
+Don't think it matters? Have a look at the success of [predicting genders of hires based solely on analysis of job descriptions](https://textio.ai/gendered-language-in-your-job-post-predicts-the-gender-of-the-person-youll-hire-cd150452407d) at Expedia. How you advertise a role is a strong predictor of who you will hire - in many cases companies and recruiters are including more communication to potential applicants than they realize.
 
 After reading an analysis of how gender disparity is still increasing in many Australian sectors, I decided to analyze job descriptions in an effort to understand how this piece of the recruitment process may be impacting hiring in various sectors.
 
